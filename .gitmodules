@@ -1,0 +1,18 @@
+[submodule "sandiegocounty.gov-covid19"]
+	path = sandiegocounty.gov-covid19
+	url = https://github.com/metatab-packages/sandiegocounty.gov-covid19.git
+[submodule "jhu.edu-covid19"]
+	path = jhu.edu-covid19
+	url = https://github.com/metatab-packages/jhu.edu-covid19.git
+[submodule "healthdata.org-hospitalizations"]
+	path = healthdata.org-hospitalizations
+	url = https://github.com/metatab-packages/healthdata.org-hospitalizations.git
+[submodule "github.com_saudwin-corona_tcsc"]
+	path = github.com_saudwin-corona_tcsc
+	url = https://github.com/metatab-packages/github.com_saudwin-corona_tcsc.git
+[submodule "covidtracking.com-covid19"]
+	path = covidtracking.com-covid19
+	url = https://github.com/metatab-packages/covidtracking.com-covid19.git
+[submodule "coronadatascraper.com-covid19"]
+	path = coronadatascraper.com-covid19
+	url = https://github.com/metatab-packages/coronadatascraper.com-covid19.git
