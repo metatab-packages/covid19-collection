@@ -1,0 +1,23 @@
+#metapack: 
+    # Set this to the S3 bucket where you will publish public data 
+    # packages. You must have a boto or .aws configuration and 
+    # credentials to access the bucket
+    #s3_bucket: 'library.metatab.org',
+    #s3_bucket: foobucket
+       
+    # Set the wordpress site where package documentation and links will 
+    # be published The string is a reference to the `wordpress` section 
+    # in  ~/.metapack.yaml . 
+    #wp_site: data.sandiegodata.org
+    #wp_site: foo.sandiegodata.org
+   
+    # Groups will become categories when publishing to Wordpress
+    #groups:
+    #    - one
+    #    - two
+
+    # Tags are tags when publishing to wordpress.
+    # 'tags': ['county', 'national'], 
+    #tags:
+    #    - tag_one
+    #    - tag_two
