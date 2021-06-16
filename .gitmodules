@@ -16,3 +16,6 @@
 [submodule "coronadatascraper.com-covid19"]
 	path = coronadatascraper.com-covid19
 	url = https://github.com/metatab-packages/coronadatascraper.com-covid19.git
+[submodule "nytimes.com-covid_19"]
+	path = nytimes.com-covid_19
+	url = https://github.com/metatab-packages/nytimes.com-covid_19.git
